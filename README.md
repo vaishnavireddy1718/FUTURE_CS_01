@@ -42,7 +42,7 @@ During the passive vulnerability assessment, OWASP ZAP detected a total of 10 se
 - 🟡 Low Risk Alerts:5  
 - 🔵 Informational Alerts: 2  
 
-🚨Few Security Alerts
+🚨Few Alerts
 
  1. Absence of Anti-CSRF Tokens
 Risk Level:Medium

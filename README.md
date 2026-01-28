@@ -123,9 +123,6 @@ Although the identified vulnerabilities were mostly of medium and low risk, they
 - Regularly perform vulnerability assessments  
 - Follow web application security best practices  
 
-📸 Screenshots
-The `/screenshots` folder contains supporting screenshots from OWASP ZAP demonstrating the alerts summary and identified vulnerabilities.
-
 🏁 Conclusion
 This vulnerability assessment was conducted using OWASP ZAP on an intentionally vulnerable web application through a passive scanning approach. The assessment successfully identified multiple security misconfigurations, including missing security headers and the absence of Anti-CSRF protection.
 

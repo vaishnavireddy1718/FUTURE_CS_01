@@ -7,6 +7,7 @@
 - Task Name: Vulnerability Assessment Report for a Live Website  
 
 🎯 Objective
+
 The objective of this task is to perform a basic vulnerability assessment on a live web application using OWASP ZAP through a passive scanning approach. This task aims to identify common web security misconfigurations and vulnerabilities and understand their potential impact and remediation methods.
 
 🛠 Tool Used

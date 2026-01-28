@@ -44,7 +44,8 @@ During the passive vulnerability assessment, OWASP ZAP detected a total of 10 se
 🚨Few Security Alerts
 
  1. Absence of Anti-CSRF Tokens
-Risk Level:Medium  
+Risk Level:Medium
+
 Description: 
 The application does not implement Anti-CSRF tokens, making it vulnerable to Cross-Site Request Forgery attacks.
 
